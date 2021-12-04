@@ -818,7 +818,7 @@ s1.plot_overview(offset=5, show_events=True,show_legends=True)
 s1._filt(cutoff=30, ftype = 'lp', filter_order = 2, channel_index = 0)
 s1.plot_overview(offset=5)
 
-Plotting Interval
+'''Plotting Interval'''
 
 s1.plot_interval(0,1,10)
 
